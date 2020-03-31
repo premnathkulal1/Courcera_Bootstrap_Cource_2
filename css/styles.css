@@ -45,6 +45,13 @@ body {
 	padding: 10px;
 }
 
+.card-body{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+}
+
 
 
 
